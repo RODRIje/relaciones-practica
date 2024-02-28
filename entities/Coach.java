@@ -18,7 +18,7 @@ public class Coach {
     private Long id;
 
     @Column(name = "name", length = 10, nullable = false, unique = true)
-    private String name;
+    private String nombre;
 
     @Column(name = "last_name", columnDefinition = "VARCHAR(100)")
     private String lastName;
