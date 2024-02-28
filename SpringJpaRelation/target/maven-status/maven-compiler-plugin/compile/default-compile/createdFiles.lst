@@ -1,0 +1,11 @@
+com\jpa\entities\Player$PlayerBuilder.class
+com\jpa\entities\FootballAssociation$FootballAssociationBuilder.class
+com\jpa\entities\Club.class
+com\jpa\entities\Coach$CoachBuilder.class
+com\jpa\entities\Player.class
+com\jpa\entities\Coach.class
+com\jpa\entities\FootballCompetition.class
+com\jpa\SpringJpaRelationApplication.class
+com\jpa\entities\Club$ClubBuilder.class
+com\jpa\entities\FootballAssociation.class
+com\jpa\entities\FootballCompetition$FootballCompetitionBuilder.class
